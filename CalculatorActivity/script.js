@@ -25,3 +25,5 @@ for (item of buttons) {
 
     })
 }
+
+ // <script src="./script.js"></script>
